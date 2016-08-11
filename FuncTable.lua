@@ -3,7 +3,8 @@
     --
     --------------------------------- Functional table
     --
-    -- From http://lua-users.org/wiki/FuncTables
+    -- I have no memory of where I got this, and I can't
+	-- find it again. If it's yours let me know!
     --
     ------------------------------------------------------
     
