@@ -1,5 +1,5 @@
 # Lexx
-A greedy lexical tokenizer
+A greedy lexical string tokenizer
 
 ## What is it?
 Lexx takes a string and breaks it into tokens. It's greedy in the sense that it will return
@@ -97,6 +97,6 @@ this will cause Lexx to return the 'next' value of it's parent rather than re-to
 	
 results in
 
-  is
+	is
 
 For more examples take a look at the tests at the bottom of Lexx.lua
